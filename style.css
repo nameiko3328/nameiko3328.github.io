@@ -11,6 +11,13 @@ body {
     height:200px; 
 }
 
+h3{
+    color:rgb(179, 79, 79)
+}
+
+
+
+
 
 .imag6{
     width: 200px;
@@ -26,9 +33,17 @@ p {
     text-align:center;
   }
 
+ 
   p {
     text-align:center;
   }
+
+
+  p {
+    text-align:center;
+  }
+
+
 
 
 
